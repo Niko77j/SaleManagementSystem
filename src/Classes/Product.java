@@ -1,7 +1,7 @@
 package Classes;
 public class Product {
     private String name;
-    private double price;
+    private double price;d
     private int stock,type;
     //region constructor
 
